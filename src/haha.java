@@ -11,6 +11,7 @@ public class haha {
           333aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 daddddddddsdsfdagfdh
 	}
+	public void hahak(){};
 
 }
 
